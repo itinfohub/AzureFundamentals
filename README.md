@@ -54,3 +54,23 @@ excluding others. The categories that are more related to the fundamentals are i
 |Operation Support|X|X|X|Y|
 |Training|X|X|X|Y|
 |Proactive Guidance|X|X|X|Y|
+
+## Cost Estimate
+
+- Pricing Calculator
+- Total Cost of Ownership 
+
+## SLA and Credits
+
+SLA: 
+  - service level agreement between customers and service providers
+  - criteria: availability; latency
+  - availability: (maximal up time - downtime)/maximal up time
+  - if failed to meet SLA, the CSP gives credit. Customer needs to claim the credit before the end of next month. For example, if SLA failure happens
+     in May 10, 2021, then June 30, 2021 is the deadline for claiming.
+  - SLA is associated with purchased service; free services don't get support, and no SLA. Services purchased with credit, their SLAs are not honoured
+  - Composite SLA: an application consists of three VMs one Azure load balance, the composite SLA = SLA(vm1)*SLA(vm2)*SLA(vm3)*SLA(balance). 
+  - Increase SLA by: 
+        - Higher availability
+        - Redundancy
+        - Tier (increase from free to purchased ) 
