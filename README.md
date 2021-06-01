@@ -2,7 +2,8 @@
 
 ## Azure Services
 
-Below is a list of Azure services found at the time of writing based on [Azure Portal All Services](https://portal.azure.com/#allservices)
+Below is a list of Azure services found at the time of writing based on [Azure Portal All Services](https://portal.azure.com/#allservices). There are about 301 services
+excluding others. The categories that are more related to the fundamentals are in bold
 
  | Service Category Name | Service Count| Examples |
 | --- | --- | --- |
