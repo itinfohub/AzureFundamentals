@@ -74,3 +74,15 @@ SLA:
         - Higher availability
         - Redundancy
         - Tier (increase from free to purchased ) 
+
+
+## Types of Services
+
+| Service Name | Service Type | Comments |
+|:---|:---|:---|
+|Azure Storage Account | IaaS | |
+|Azure Virtual Machine | IaaS ||
+|Azure App Service | PaaS ||
+|Azure Database SQL | PaaS ||
+
+
