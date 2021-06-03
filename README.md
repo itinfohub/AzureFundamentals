@@ -84,5 +84,6 @@ SLA:
 |Azure Virtual Machine | IaaS ||
 |Azure App Service | PaaS ||
 |Azure Database SQL | PaaS ||
+|Azure Cosmos DB | PaaS||
 
 
