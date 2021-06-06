@@ -20,7 +20,7 @@ This doc presents fundamentals of Azure cloud which includes the following:
 
 ## What is cloud computing?
 
-- Using the Internet to remotely deliver computing services: computing; networking; storage; analytics; and intelligence etc.
+- Using the Internet to deliver from remote computing services: computing; networking; storage; analytics; and intelligence etc.
 - Virtual rather than physical
 - pay as you go
 - rental rather ownership
