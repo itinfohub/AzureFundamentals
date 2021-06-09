@@ -78,8 +78,8 @@ This doc presents fundamentals of Azure cloud which includes the following:
 
 | Database Service | Comments |
 |:---|:---|
-|Azure CosmosDB | Globally distributed, no latency, massively scalable |
-|Azure SQL database | PaaS|
+|Azure CosmosDB |fully managed; low latency: single digital of millisecond; SLA: 99.999; NoSQL; No-ETL Analystics with Azure Synapse Link |
+|Azure SQL database | PaaS;|
 |Azure database MySQL ||
 |Azure database Postgresql ||
 |Azure SQL database on VM | IaaS|
