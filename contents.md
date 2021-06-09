@@ -58,7 +58,7 @@ This doc presents fundamentals of Azure cloud which includes the following:
  | Azure Kubernates Services | cluster management of many container instances |
  | Azure container instance | Azure containerized applications|
  | Azure Functions | event-driven, serverless computing resources. No need to provision VM to run it |
- | Azure Service Fabric | Distributed systems platform facilitating the package, deployment,and management of microservices |
+ | Azure Service Fabric | Distributed systems platform facilitating the package, deployment,and management of microservices <br> ; on-premisese, Azure cloud or other clouds |
  | Azure batch | high performance parallel computing |
 
 
