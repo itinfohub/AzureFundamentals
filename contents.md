@@ -28,12 +28,16 @@ This doc presents fundamentals of Azure cloud which includes the following:
 </pre>
 </p></details>
 
-## Advantages of cloud computing
+> ## Advantages of cloud computing
+
 
 | Advantage  | Details |
 |---|---|
 |Cost-effective | No upfront cost of buying hardware or running data centers. CapEx vs OpEx |
 |Agility | Can deploy virtual machines, virtual network etc in minutes, without the need to wait for the ordered hardware to be shipped, mounted, and installed |
-|High Availability | Can be configured to have high availability |
-|Scalability | Easy to scale up or down based on demands of resources |
+|High Availability | Run with high uptime. HA=(uptime/life time)|
+|Scalability | Easy to scale horizontally and vertically |
 |Elasticity | The ability to automatically scale up/down or in/out based on real time demands |
+|Fault Tolerance | The ability to remain up with hardware/data center failures|
+|Disater Recovery | The ability to recover from natural or human induced disasters with geo-redundancy|
+
