@@ -81,7 +81,7 @@ This doc presents fundamentals of Azure cloud which includes the following:
 |Azure CosmosDB |fully managed; low latency: single digital of millisecond; SLA: 99.999; NoSQL; No-ETL Analystics with Azure Synapse Link |
 |Azure SQL database | PaaS; Fully managed|
 |Azure database MySQL |Fully managed|
-|Azure database Postgresql |Full managed|
+|Azure database Postgresql |Fully managed|
 |Azure SQL database on VM | IaaS; |
 |Azure Cache Store Redis | key-value store |
 |Azure Synapse Analytics | dataware house |
