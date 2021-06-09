@@ -44,11 +44,10 @@ This doc presents fundamentals of Azure cloud which includes the following:
 # Main Azure Services
 
 <pre>
-- Compute               - Storage              - Database
-- Network               - Mobile               - Web
-- Big Data              - IoT                  - AI
-- DevOps
+- Compute               - Storage              - Database          - Big Data     - AI
+- Network               - Mobile               - Web               - IoT          - DevOps
 </pre>
+
 
 ### Compute
  
@@ -63,4 +62,13 @@ This doc presents fundamentals of Azure cloud which includes the following:
  | Azure batch | high performance parallel computing |
 
 
+
+### Storage
+ | Storage Service | Comments |
+ |:---|:---|
+ |Azure Blob Storage| Globally distributed, highly available, secure object storage |
+ |Azure File Storage | Shared file systems, access with SMB or mounting |
+ |Azure Queue Storage | Asynchronous access |
+ |Azure Table Storage | key-value, semi-structured, schemaless, NoSQL |
+ |Azure Disk Storage | virtual hard disk attached to individual VM |
 
