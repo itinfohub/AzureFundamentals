@@ -2,28 +2,31 @@
 
 This doc presents fundamentals of Azure cloud which includes the following:
 
-<details><summary>Topics Covered</summary><p>
-<pre>
-1. Concepts of cloud computing and its features and advantages
-2. Core Azure services
-3. Azure management tools and core solutions
-4. Azure security: general and network
-5. Identity, privacy, governance and compliance
-6. Cost management and SLA
-</pre>
-</p></details>
+
+> ####   - Concepts of cloud computing and its features and advantages
+> ####   - Core Azure services
+> ####   - Azure management tools and core solutions
+> ####   - Azure security: general and network
+> ####   - Identity, privacy, governance and compliance
+> ####   - Cost management and SLA
+
 
 
 
 
 # Cloud Computing
 
-## What is cloud computing?
+> ## What is cloud computing?
 
-- Using the Internet to deliver from remote computing services: computing; networking; storage; analytics; and intelligence etc.
+<details><summary> cloud computing </summary><p>
+<pre>
+- Using the Internet to deliver from remote computing services: computing; networking; 
+  storage; analytics; and intelligence etc.
 - Virtual rather than physical
 - pay as you go
 - rental rather ownership
+</pre>
+</p></details>
 
 ## Advantages of cloud computing
 
