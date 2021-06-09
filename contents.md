@@ -72,3 +72,14 @@ This doc presents fundamentals of Azure cloud which includes the following:
  |Azure Table Storage | key-value, semi-structured, schemaless, NoSQL |
  |Azure Disk Storage | virtual hard disk attached to individual VM |
 
+
+
+### Database
+
+| Database Service | Comments |
+|:---|:---|
+|Azure CosmosDB | Globally distributed, no latency, massively scalable |
+|Azure SQL database | PaaS|
+|Azure database MySQL ||
+|Azure database Postgresql ||
+|Azure SQL database on VM | IaaS|
