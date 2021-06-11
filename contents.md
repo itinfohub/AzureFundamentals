@@ -69,7 +69,7 @@ This doc presents fundamentals of Azure cloud which includes the following:
  |Azure Blob Storage| Globally distributed, highly available, secure object storage |
  |Azure File Storage | Shared file systems, access with SMB or mounting |
  |Azure Queue Storage | Asynchronous access |
- |Azure Table Storage | key-value, semi-structured, schemaless, NoSQL |
+ |Azure Table Storage | semi-structured, schemaless, NoSQL |
  |Azure Disk Storage | virtual hard disk attached to individual VM |
 
 
